@@ -7,7 +7,7 @@ languageCode = "us-en"
 hasCJKLanguage = true
 
 enableRobotsTXT = true
-
+publishDir = "docs"
 # Enable Disqus
 #disqusShortname = "XXX"
 
@@ -45,6 +45,15 @@ darkTheme = "xcode-dark"  # apply this theme in dark mode
 enable = false
 addThisId = ""
 inlineToolId = ""
+
+[params.profile]
+  enable = true
+#  avatar = "About/IMG_0071.JPEG"
+#  name = "Abdalaziz Rashid"
+  bio = "Reasearcher at [Lambda Labs](https://cs.hse.ru/en/lambda/) & PhD student"  # support markdown syntax
+  twitter = "abdalazizrashid"  # https://twitter.com/XXX
+  github = "abdalazizrashid"  # https://github.com/XXX
+  email = "abdalaziz.rashid@outlook.com"  # mailto:XXX@mail.com
 
 [params.nav]
 showCategories = false       # /categories/

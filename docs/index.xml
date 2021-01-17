@@ -1,0 +1,55 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdalaziz Rashid</title>
+    <link>https://abdalazizrashid.github.io/</link>
+    <description>Recent content on Abdalaziz Rashid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>us-en</language>
+    <copyright>©2021 Abdalaziz Rashid.</copyright>
+    
+        <atom:link href="https://abdalazizrashid.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://abdalazizrashid.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdalazizrashid.github.io/about/</guid>
+      <description>&lt;h1 id=&#34;current-affiliations&#34;&gt;Current Affiliations&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Researcher at &lt;a href=&#34;https://cs.hse.ru/en/lambda/&#34;target=&#34;_blank&#34;&gt;Lambda Labs&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;PhD student at the National Research University Higher School of Economics
+(HSE) in the Computer Science faculty.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;interests&#34;&gt;Interests&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Interpretability of deep learning models.&lt;/li&gt;
+&lt;li&gt;Parsimonious and sparsity promoting models.&lt;/li&gt;
+&lt;li&gt;Differential programming.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://abdalazizrashid.github.io/blog/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdalazizrashid.github.io/blog/test/</guid>
+      <description>&lt;h1 id=&#34;title&#34;&gt;Title&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://abdalazizrashid.github.io/notebook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdalazizrashid.github.io/notebook/</guid>
+      <description>&lt;h1 id=&#34;notebook&#34;&gt;Notebook&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
