@@ -3,11 +3,12 @@ title = "Abdalaziz Rashid"
 theme = "hugo-notepadium"
 copyright = "©2021 Abdalaziz Rashid."
 
-languageCode = "us-en"
+languageCode = "en"
 hasCJKLanguage = true
 
 enableRobotsTXT = true
 publishDir = "docs"
+staticDir = "img"
 # Enable Disqus
 #disqusShortname = "XXX"
 
